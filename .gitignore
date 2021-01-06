@@ -1,0 +1,13 @@
+authorizedcreds.dat
+bin/
+lib/
+lib64
+share/
+key.json
+*.xlsx
+data/*
+!.gitkeep
+*.csv
+.DS_Store
+.env
+help.json
